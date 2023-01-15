@@ -1,0 +1,20 @@
+# 섹션2 흐름 제어
+
+## Branch, Sequence, Flip Flop
+
+### Branch
+- Branch는 논리 연산의 결과에 따라 노드를 분기하여 실행하게 해준다.
+- B + 마우스 오른쪽을 누르면 Branch 노드를 생성할 수 있다.
+
+### Sequence
+- Sequence는 노드를 순차적으로 실행하게 해준다.
+- S + 마우스 오른쪽을 누르면 Sequence 노드를 생성할 수 있다.
+
+### Flip Flop
+- Flip Flop은 노드를 반복적으로 실행하게 해준다.
+
+## For Loop, While Loop
+
+## Gate, MultiGate, Do Once, Do N
+
+## Enum
